@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Text{
+    border:3px solid black;
+}
+.TI{
+    position: absolute;
+    top: 110px;
+  right: 60px;
+  
+}
+.TI img{
+    width: 500px;
+    height: 550px;
+    top: 8px;
+    right: 16px;
+
+}
+.Front{
+    position: relative;
+    text-align: center;
+}
+.BI{
+    /* background-size: cover; */
+    width: 100%;
+    margin: 0%;
+
+}
+.T{
+    /* border:3px solid black; */
+    position: absolute;
+    top: 295px;
+  left: 123px;
+  display: flexbox;
+}
+.T h1{
+    color: #FF7600;
+    margin-bottom: 0px;
+    font-size: 54px;
+}
+.T h4{
+    font-size:23px;
+}
+.btn1{
+    background-color: #FF6600;
+    padding: 16px;
+    margin: 20px;
+    width: 225px;
+    border-radius: 50px;
+    border:none;
+    color: white;
+    font-size: 20px;
+}

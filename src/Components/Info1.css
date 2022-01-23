@@ -1,0 +1,56 @@
+.pro_head{
+    padding-top: 60px;
+    /* border:2px solid black; */
+    text-align: center;
+}
+.pro_head p{
+    color: red;
+    font-size: 20px;
+}
+#program{
+    /* border:2px solid black; */
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Pcard{
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 0px 0px;
+    border: 1px solid rgb(245, 245, 245);
+    box-shadow: -10px 10px 40px rgb(134 134 134);
+    background-color: rgb(255, 255, 255);
+    /* background-color:brown; */
+    margin: 50px;
+    overflow: hidden;
+}
+.Pcard img{
+    width: 100%;
+    height: 270px;
+}
+.Pcard .data{
+    /* border:2px solid black; */
+    padding: 30px 20px 0px 20px;
+    font-size: 14px;
+    
+
+}
+.Pcard button{
+    background: none;
+    border: 2px solid;
+    font: 106px;
+    line-height: 1;
+    padding: 0.6em 2em;
+    border-radius: 30px;
+    color: #FF6600;
+    transition: 0.25s;
+}
+.register{
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    /* border: 2px solid black; */
+}

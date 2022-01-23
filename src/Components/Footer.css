@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.an li{
+    color: white;
+    text-decoration: none;
+}
+.an li:hover{
+    color: hsl(27, 100%, 48%);;
+cursor: pointer;
+
+}
+.Foot{
+    background-color: #01270d;
+    padding: 55px 0 70px;
+    font-size: 15px;
+    line-height: 24px;
+    color: #ffffff;
+    height: 100%;
+    position: relative;
+    margin-bottom: 0;
+}
+.FooterHead{
+    /* border:2px solid white; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Fhead1{
+    border-bottom:1px solid white;
+    width:290px;
+    height: 144px;
+}
+
+.Fhead1  ul{
+    list-style: none;
+    
+}
+.MF{
+    display: flex;
+    text-align: center;
+    justify-content: right;   
+}
+
+.Fhead1 .icons
+{
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-left: 6px;
+    margin-right: 0;
+    border-radius: 100%;
+    background-color: #f76f00;
+    color: white;
+    cursor: pointer; 
+}
+
+.FooterDown{
+    /* border:2px solid white; */
+    display:flex;
+    padding-left: 100px;
+    /* text-align: center; */
+}
+.FooterDown .CR{
+    width: 636px;
+    height: 24;
+
+}
+.FooterDown ul{
+    list-style: none;
+    display:flex;
+    /* margin: 10px; */
+}
+
+.FooterDown ul li{
+    padding:0px 50px 0px 0px;
+}
