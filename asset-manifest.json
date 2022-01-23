@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/YIF-Clone/static/css/main.15e05be6.css",
+    "main.js": "/YIF-Clone/static/js/main.8e291503.js",
+    "static/js/787.68c14745.chunk.js": "/YIF-Clone/static/js/787.68c14745.chunk.js",
+    "static/media/kidsround.png": "/YIF-Clone/static/media/kidsround.d2de620c069b5acad999.png",
+    "static/media/Game.jfif": "/YIF-Clone/static/media/Game.cc2915b032a0909f7a57.jfif",
+    "static/media/Youthon.jfif": "/YIF-Clone/static/media/Youthon.d97961be035fb7a59488.jfif",
+    "static/media/Beyond_the_idea.jfif": "/YIF-Clone/static/media/Beyond_the_idea.3636e0f4932cab7bd31a.jfif",
+    "static/media/88.png": "/YIF-Clone/static/media/88.9f998df22215ebbb87a9.png",
+    "static/media/back.jpg": "/YIF-Clone/static/media/back.35b466ad738a56794c57.jpg",
+    "static/media/3.svg": "/YIF-Clone/static/media/3.f67ddb0b56ac20f420f448bdd31072df.svg",
+    "static/media/5.svg": "/YIF-Clone/static/media/5.57bfc7d914dc40b2c9c5ced479ca5bd3.svg",
+    "static/media/7.svg": "/YIF-Clone/static/media/7.8579bedd0ccdb7bec5945146d2f098d9.svg",
+    "static/media/1.svg": "/YIF-Clone/static/media/1.504e8dfc8726e469e2b2af11c436f8d4.svg",
+    "static/media/2.svg": "/YIF-Clone/static/media/2.1bc320fd2c136267857bd8f4280d8fe9.svg",
+    "static/media/6.svg": "/YIF-Clone/static/media/6.8f5f9db08c8b9f5f6c4a3b9767f99a05.svg",
+    "index.html": "/YIF-Clone/index.html",
+    "main.15e05be6.css.map": "/YIF-Clone/static/css/main.15e05be6.css.map",
+    "main.8e291503.js.map": "/YIF-Clone/static/js/main.8e291503.js.map",
+    "787.68c14745.chunk.js.map": "/YIF-Clone/static/js/787.68c14745.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e05be6.css",
+    "static/js/main.8e291503.js"
+  ]
+}
